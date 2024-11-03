@@ -1,0 +1,9 @@
+*/.*
+
+C/MNIST-txt
+
+OCAML/*.cmi
+OCAML/*.cma
+OCAML/*.cmo
+
+*.zip
